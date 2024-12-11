@@ -47,7 +47,7 @@ My name is Jawher LABBEN, and I'm currently studying **Computer Networks and Tel
   Issued: August 2021
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b9fab356-4a49-4327-85d3-9aea28fa2460" alt="Certification" style="width: 50%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/cac3a238-20e8-4d97-9125-e6cec8f242c2" alt="ECC-ExamTranscript" style="width: 50%; height: auto;">
 </div>
 
 ---
